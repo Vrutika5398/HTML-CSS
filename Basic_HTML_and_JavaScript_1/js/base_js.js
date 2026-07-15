@@ -1,4 +1,4 @@
-alert("Hello World. I'm external file for js !!!");
+alert("Hello World. I'm external alert with js !!!");
 
 function my_function1(){
 	var string = "Hello, I'm Irish !!!!";
